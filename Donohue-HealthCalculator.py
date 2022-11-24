@@ -1,3 +1,4 @@
+#programmed by Sarah Donohue
 #11/12/22
 #Donohue-HealthCalculator.py
 #this application will calculate BMI and series of heart rate values using the Karvonen formula
