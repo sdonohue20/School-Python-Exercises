@@ -8,7 +8,7 @@ import random
 play_again = True
 
 while play_again == True:
-    maxnum = int(input('What should the maxmimmum number be for this game? '))
+    maxnum = int(input('What should the maxmimum number be for this game? '))
     number = random.randint(1, maxnum)
     guess = int(input('Guess my number: '))
 
